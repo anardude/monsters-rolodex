@@ -1,9 +1,21 @@
 .App {
   text-align: center;
+  color: #fcb700;
 }
 
 h1 {
-  font-family: 'Bigelow Rules', cursive;
-  font-size: 72px;
-  color: #0ccac4;
+  font-size: 48px;
+  color: #fcb700;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
 }
